@@ -1,10 +1,11 @@
 {
-  "users": [
+  "posts": [
     {
       "id": 1,
-      "name": "Name",
-      "email": "Mail",
-      "password": "123456"
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
